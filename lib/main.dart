@@ -27,7 +27,7 @@ class MyHomePage extends StatelessWidget {
           bottom: TabBar(
             tabs: <Widget>[
               Tab(text: "first of all",),
-              Tab(text: "second",),
+              Tab(text: "second of all",),
               Tab(text: "third",),
             ],
           ),
