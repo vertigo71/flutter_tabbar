@@ -26,7 +26,7 @@ class MyHomePage extends StatelessWidget {
           title: Text("Flutter tab app"),
           bottom: TabBar(
             tabs: <Widget>[
-              Tab(text: "first",),
+              Tab(text: "first of all",),
               Tab(text: "second",),
               Tab(text: "third",),
             ],
